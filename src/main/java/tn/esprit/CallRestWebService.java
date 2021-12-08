@@ -18,6 +18,7 @@ import org.json.JSONObject;
  *
  */
 public class CallRestWebService {
+//    deuxieme commit du projet
 
     public static final String endpoint = "http://ip-api.com/json";
     //public static final String endpoint = "https://httpbin.org/get";
